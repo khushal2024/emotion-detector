@@ -1,0 +1,3 @@
+0 happy
+1 anger
+2 crying
